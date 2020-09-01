@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hallo! 👋
 
 <!--
 **Logxn/Logxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Logan, 19, from 📍 Germany.<br>
+Starting 10/01/20 I will be 📚 studying administrative informatics for the German authority Informationstechnikzentrum Bund (ITZBund).<br><br>
+
+How to contact me:<br>
+📧 Email: hello[at]loganthompson.de<br>
+💻 Website: loganthompson.de<br>
+🐦 Twitter: @loganpunkt
