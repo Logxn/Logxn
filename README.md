@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Logan, 19, from 📍 Germany.<br>
-Starting 10/01/20 I will be 📚 studying administrative informatics for the German authority Informationstechnikzentrum Bund (ITZBund).<br><br>
+I am Logan, 20, from 📍 Germany.<br>
+I am 📚 studying administrative informatics for the German authority Informationstechnikzentrum Bund (ITZBund).<br><br>
 
 How to contact me:<br>
 📧 Email: hello[at]loganthompson.de<br>
