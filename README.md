@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Logan, 21, from 📍 Germany.<br><br>
+I am Logan, 21, from 📍 Germany studying "Digital Administration & Cyber Security".<br><br>
 
 How to contact me:<br>
 📧 Email: hello[at]loganthompson.de<br>
