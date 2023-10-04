@@ -19,4 +19,3 @@ I am Logan, 22, from 📍 Germany, studying "Digital Administration & Cyber Secu
 
 How to contact me:<br>
 📧 Email: hello[at]loganthompson.de<br>
-💻 Website: loganthompson.de<br>
